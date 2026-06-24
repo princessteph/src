@@ -7,4 +7,5 @@ src truc truc.
 - page/index.php
 
 ## Pas compris
+- htmlspecialchars ?? c quoi et pk? 
 ## Fonctions connais pas 
